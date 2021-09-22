@@ -413,6 +413,15 @@
         0 => 'v8.61.0',
       ),
     ),
+    'intervention/image' => 
+    array (
+      'pretty_version' => '2.6.1',
+      'version' => '2.6.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '0925f10b259679b5d8ca58f3a2add9255ffcda45',
+    ),
     'kalnoy/nestedset' => 
     array (
       'pretty_version' => 'v6.0.0',
@@ -1320,6 +1329,15 @@
       array (
       ),
       'reference' => 'b43b05cf43c1b6d849478965062b6ef73e223bb5',
+    ),
+    'unisharp/laravel-filemanager' => 
+    array (
+      'pretty_version' => 'v2.2.0',
+      'version' => '2.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '34202590a88ecfc598c6dc70dae8b306710d4df2',
     ),
     'vlucas/phpdotenv' => 
     array (
